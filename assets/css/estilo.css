@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.main-highlight {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
